@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shahbaz.lenovo.bookstacks.NewBook"
+    android:orientation="vertical"
+    android:background="@drawable/bb">
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt1"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt2"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt3"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt4"
+            android:hint="Number of books/book details"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt5"
+            android:hint="Pin Code"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt6"
+            android:hint="City"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+
+        <EditText
+            android:layout_height="45dp"
+            android:layout_width="match_parent"
+            android:id="@+id/txt7"
+            android:hint="State"
+            android:background="#a2c8ed"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_margin="10dp"
+            android:alpha="0.8"
+            />
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:id="@+id/btn"
+    android:text="DONATE"
+    android:background="@color/jumbo"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_margin="10dp"
+    />
+
+</LinearLayout>

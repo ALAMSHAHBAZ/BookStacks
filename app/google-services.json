@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106953620237",
+    "firebase_url": "https://bookstacks-16497.firebaseio.com",
+    "project_id": "bookstacks-16497",
+    "storage_bucket": "bookstacks-16497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106953620237:android:d0d1d7131aef86f7",
+        "android_client_info": {
+          "package_name": "com.shahbaz.lenovo.bookstacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106953620237-2ci8ov0007cvod7li69vc151o6nkq6vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahbaz.lenovo.bookstacks",
+            "certificate_hash": "760e06b0f4547d828476f9adc5788dc9d2849ddc"
+          }
+        },
+        {
+          "client_id": "106953620237-pb0ceri1jn479ufqrbouhcmq8chssf5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_iIC4RbZRkb9IJLF9xpVm9WxhMk7luQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106953620237-pb0ceri1jn479ufqrbouhcmq8chssf5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

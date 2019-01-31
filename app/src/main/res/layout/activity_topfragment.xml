@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shahbaz.lenovo.bookstacks.Topfragment"
+    android:orientation="vertical"
+   android:gravity="center">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For every book you donate"
+        android:textSize="16dp"
+        android:textColor="#06093e"
+        android:textStyle="bold"
+        android:id="@+id/txt"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="We at BookStacks donate a book to someone who is deprived of resources and help spread a smile\n\nJoin us in this good cause"
+        android:textSize="16dp"
+        android:textColor="#06093e"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>

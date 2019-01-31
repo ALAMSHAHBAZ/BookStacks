@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Material Login Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_basic">BasicActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_new_book">NewBook</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="string1">ViewPagerDemo</string>
+    <string name="string2">yoyo</string>
+    <string name="string3">yoyo</string>
+
+    <array name="courses">
+
+        <item>Select Stream/Course</item>
+
+        <item>Engineering</item>
+
+        <item>Quantum and Decodes</item>
+
+        <item>Medical</item>
+
+        <item>Intermediate</item>
+
+        <item>High School</item>
+
+        <item>Competitive</item>
+        <item>Entrance Exams Coaching Package material</item>
+
+        <item>Others</item>
+
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

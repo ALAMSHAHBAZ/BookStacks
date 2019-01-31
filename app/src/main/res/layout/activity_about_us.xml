@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shahbaz.lenovo.bookstacks.AboutUs"
+    android:background="@drawable/grassbook"
+    android:orientation="vertical">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:textSize="18dp"
+    android:textColor="@color/white"
+    android:gravity="center_horizontal"
+    android:text='"A book is a device to ignite the imagination"\n\n ' />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:minLines="8"
+        android:textColor="@color/white"
+        android:layout_gravity="fill"
+        android:text="At BookStacks we believe books are our best friends and books are ocean of treasure, it is full with all the precious commodity, whatever you ask from it, you get it, best part is, it never lose its value, the wisdom, the prudence provided in books remain evergreen,no matter how many times you have used the ideas of it,it never get old, it never get obsolete, it never diminishes it’s worth."/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:textColor="@color/white"
+        android:text="\n\nWe aim to provide a platform where now you can buy new,old and used books at lowest prices."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:text="\nHappy Reading!!"/>
+</LinearLayout>
